@@ -1,0 +1,13 @@
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\bin\Debug\ResultManager.exe.config
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\bin\Debug\ResultManager.exe
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\bin\Debug\ResultManager.pdb
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\obj\Debug\ResultManager.csprojResolveAssemblyReference.cache
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\obj\Debug\ResultManager.Form1.resources
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\obj\Debug\ResultManager.Properties.Resources.resources
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\obj\Debug\ResultManager.csproj.GenerateResource.Cache
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\obj\Debug\ResultManager.csproj.CoreCompileInputs.cache
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\obj\Debug\ResultManager.exe
+C:\Users\TETE\indoor_localization\ResultManager\ResultManager\obj\Debug\ResultManager.pdb
